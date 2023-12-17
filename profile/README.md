@@ -1,3 +1,4 @@
-# Atlas Isles
-Creating minecraft experiences
-[https://atlasisles.com](https://atlasisles.com)
+# Atlas Interactive
+Creating Minecraft experiences
+
+Check out [Atlas Isles](https://atlasisles.com)
